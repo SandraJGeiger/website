@@ -16,9 +16,9 @@ education:
 email: sandra.geiger@univie.ac.at
 highlight_name: no
 interests:
+- Environmental psychology, including behavior change, spillover effects, nature connectedness, risk communication
 - (Bayesian) statistics
 - Open science
-- Environmental psychology, including behavior change, spillover effects, nature connectedness, risk communication
 organizations:
 - name: University of Vienna
   url: https://env-psy.univie.ac.at/about-us/sandra-geiger/
@@ -49,4 +49,4 @@ I am a PhD student in the Environmental Psychology Research Group with Mathew Wh
 
 I am also affiliated with the Junior Researcher Programme (https://jrp.pscholars.org) where I help to develop the scientific aspects of the program, including implementing open science and organizing trainings for students.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
