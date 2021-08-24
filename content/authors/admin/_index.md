@@ -1,52 +1,51 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: Sandra J. Geiger
+bio: My research interests include Environmental Psychology, statistics, and Open science.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: M.Sc. Psychology (Research)
+    institution: University of Amsterdam, Amsterdam, The Netherlands
+    year: 2020
+  - course: B.Sc. Psychology 
+    institution: Albert-Ludwigs University, Freiburg, Germany
+    year: 2018
+  - course: Exchange semester
+    institution: University of British Columbia, Vancouver, Canada
+    year: 2017
+email: "sandra.geiger@univie.ac.at"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental psychology: behavior change, spillover effects, nature connectedness, risk communication
+- (Bayesian) statistics
+- Open science
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Vienna
+  url: https://env-psy.univie.ac.at/about-us/sandra-geiger/
+role: PhD student in Environmental Psychology
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:sandra.geiger@univie.ac.at 
 - display:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  label: Find me on Twitter
+  link: https://twitter.com/SandraJGeiger
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=oi30zzUAAAAJ&hl=de#
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3262-5609 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/sandra-geiger/
 superuser: true
-title: Nelson Bighetti
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in the Environmental Psychology Research Group with Mathew White and Sabine Pahl. Before joining the University of Vienna, I completed a research master’s in Social Psychology and Psychological Methods at the University of Amsterdam. My main interests include behavior change, spillover effects, decision-making, and risk communication in the environmental domain. I am also interested in Bayesian statistics and hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am also affiliated with the Junior Researcher Programme (https://jrp.pscholars.org) where I help to develop the scientific aspects of the program, including implementing open science and organizing trainings for students.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
