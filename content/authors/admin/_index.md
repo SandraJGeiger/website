@@ -18,8 +18,7 @@ highlight_name: no
 interests:
 - (Bayesian) statistics
 - Open science
-- Environmental psychology: behavior change, spillover effects, nature connectedness,
-    risk communication
+- Environmental psychology, including behavior change, spillover effects, nature connectedness, risk communication
 organizations:
 - name: University of Vienna
   url: https://env-psy.univie.ac.at/about-us/sandra-geiger/
