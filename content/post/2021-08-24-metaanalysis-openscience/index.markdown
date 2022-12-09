@@ -1,0 +1,31 @@
+---
+title: Meta-analyses in times of open science
+author: 'Sandra Geiger'
+date: '2021-09-02'
+slug: meta-analysis
+categories: []
+tags: []
+subtitle: 'Practical recommendations from my first meta-analysis'
+summary: 'This blog post goes out to all (soon-to-be) meta-analysts who are looking for ways to make their projects more reusable, transparent, and sustainable.'
+authors: []
+lastmod: '2022-12-09T12:24:17+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+**This blog post goes out to all (soon-to-be) meta-analysts who are looking for ways to make their projects more reusable, transparent, and sustainable.**
+
+Thousands of academic articles are published every day, which makes it more and more difficult to keep track of what is relevant to your research. Meta-analyses are a powerful tool to navigate the available evidence on a topic. However, such meta-analyses can be even more powerful if they follow the **four pillars of open science—<span style = "color: #D7191C>pre-registration</span>, open materials, open data and code, as well as open access.** 
+
+Having recently conducted my first meta-analysis, I searched for guidelines on how to implement open science practices. While open science is often discussed in the context of primary research, only few resources concern their implementation in meta-analyses. In this blog post, I will explain why and how open science can make meta-analyses even more powerful, including practical tips and resources that helped me along the way. 
+
+**5 reasons to adopt open science in meta-analyses**
+
+Well-conducted meta-analyses are considered to provide the best available evidence for any research question, thus often guiding researchers’ and policymakers’ decisions. Although important, meta-analyses are less transparent than one would hope. In 2019, only 20% of meta-analyses published in Perspectives in Psychological Science or Psychological Science were pre-registered and 40% provided open materials and data [Moreau & Gamble, 2019](https://journals.sagepub.com/doi/abs/10.1177/1745691620906416?casa_token=0_rdT0URmEQAAAAA%3AvcoFcMQjYX_7h-J01H2vn46sCmfLIUI49QBT3-3Y80tPztLUNBgpvz0Si7ujkkBlCbGnSbhE4g3a&journalCode=ppsa). So why should we aim to make meta-analyses more transparent? 
+
+
+1. xxxx 
