@@ -13,10 +13,15 @@ education:
   - course: Exchange semester
     institution: University of British Columbia, Vancouver, Canada
     year: 2017
-output: pdf_document
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
 highlight_name: no
 interests:
-- Environmental psychology including social norms, second-order beliefs, behavior change, and spillover effects
+- Environmental psychology including social norms, second-order beliefs, behavior
+  change, and spillover effects
 - (Bayesian) statistics
 - Open science
 organizations:
@@ -49,7 +54,7 @@ superuser: yes
 email: sandra.geiger@univie.ac.at
 ---
 
-I am a PhD student in the [Environmental Psychology Research Group](https://env-psy.univie.ac.at/about-us/) at the University of Vienna with Dr. Mathew White and Prof. Dr. Sabine Pahl. Before joining the University of Vienna, I completed a Research Master’s in Social Psychology and Psychological Methods at the University of Amsterdam. My main research interests include social norms, second-order beliefs, behavior change, and spillover effects in the environmental domain. I am also interested in Bayesian statistics and hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
+I am a PhD student in the [Environmental Psychology Research Group](https://env-psy.univie.ac.at/about-us/) at the University of Vienna with Dr. Mathew White and Prof. Dr. Sabine Pahl. Before joining the University of Vienna, I completed a Research Master's in Social Psychology and Psychological Methods at the University of Amsterdam. My main research interests include social norms, second-order beliefs, behavior change, and spillover effects in the environmental domain. I am also interested in Bayesian statistics and hope to contribute to making (psychological) research more transparent, reproducible, and sustainable.
 
 I am also affiliated with the [Junior Researcher Programme](https://jrp.pscholars.org) where I organized a summer school on "Sustainability: How Psychology can Contribute to the Sustainable Development Goals". I also oversee the research groups and help develop the scientific aspects of the program including implementing open science and organizing trainings for students.
 
