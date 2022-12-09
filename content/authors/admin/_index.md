@@ -20,13 +20,8 @@ output:
   pdf_document: default
 highlight_name: no
 interests:
-<<<<<<< HEAD
 - Environmental psychology including social norms, second-order beliefs, behavior
   change, and spillover effects
-=======
-- Environmental psychology, including behavior change, spillover effects, nature connectedness,
-  risk communication
->>>>>>> fa098bd2e69712a8c8bed9e333b4d62618e4e3fd
 - (Bayesian) statistics
 - Open science
 organizations:
