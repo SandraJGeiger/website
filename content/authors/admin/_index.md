@@ -46,6 +46,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/sandra-geiger/
 superuser: yes
+
 ---
 
 I am a PhD student in the Environmental Psychology Research Group with Mathew White and Sabine Pahl. Before joining the University of Vienna, I completed a research master’s in Social Psychology and Psychological Methods at the University of Amsterdam. My main interests include behavior change, spillover effects, decision-making, and risk communication in the environmental domain. I am also interested in Bayesian statistics and hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
