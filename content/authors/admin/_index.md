@@ -49,8 +49,8 @@ superuser: yes
 
 ---
 
-I am a PhD student in the Environmental Psychology Research Group with Mathew White and Sabine Pahl. Before joining the University of Vienna, I completed a research master’s in Social Psychology and Psychological Methods at the University of Amsterdam. My main interests include behavior change, spillover effects, decision-making, and risk communication in the environmental domain. I am also interested in Bayesian statistics and hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
+I am a PhD student in the Environmental Psychology Research Group at the University of Vienna with Dr. Mathew White and Prof. Dr. Sabine Pahl. Before joining the University of Vienna, I completed a Research Master’s in Social Psychology and Psychological Methods at the University of Amsterdam. My main interests include social norms, second-order beliefs, behavior change, and spillover effects in the environmental domain. I am also interested in Bayesian statistics and hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
 
-I am also affiliated with the Junior Researcher Programme (https://jrp.pscholars.org) where I help to develop the scientific aspects of the program, including implementing open science and organizing trainings for students.
+I am also affiliated with the [Junior Researcher Programme](https://jrp.pscholars.org) where I organized a summer school on "Sustainability: How Psychology can Contribute to the Sustainable Development Goals". I also oversee the research groups and help develop the scientific aspects of the program including implementing open science and organizing trainings for students.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
