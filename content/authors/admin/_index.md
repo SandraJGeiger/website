@@ -16,13 +16,14 @@ education:
 output: pdf_document
 highlight_name: no
 interests:
-- Environmental psychology including social norms, second-order beliefs, behavior change, and spillover effects
+- Environmental psychology, including behavior change, spillover effects, nature connectedness,
+  risk communication
 - (Bayesian) statistics
 - Open science
 organizations:
 - name: University of Vienna
   url: https://env-psy.univie.ac.at/about-us/sandra-geiger/
-role: PhD researcher in Environmental Psychology
+role: PhD student in Environmental Psychology
 social:
 - icon: envelope
   icon_pack: fas
