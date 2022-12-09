@@ -13,10 +13,11 @@ education:
   - course: Exchange semester
     institution: University of British Columbia, Vancouver, Canada
     year: 2017
-email: sandra.geiger@univie.ac.at
+output: pdf_document
 highlight_name: no
 interests:
-- Environmental psychology, including behavior change, spillover effects, nature connectedness, risk communication
+- Environmental psychology, including behavior change, spillover effects, nature connectedness,
+  risk communication
 - (Bayesian) statistics
 - Open science
 organizations:
@@ -38,7 +39,7 @@ social:
   link: https://scholar.google.com/citations?user=oi30zzUAAAAJ&hl=de#
 - icon: osf
   icon_pack: ai
-  link: https://osf.io/ejypz 
+  link: https://osf.io/ejypz
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3262-5609
@@ -46,10 +47,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/sandra-geiger/
 superuser: yes
-
+email: sandra.geiger@univie.ac.at
 ---
 
-I am a PhD student in the Environmental Psychology Research Group at the University of Vienna with Dr. Mathew White and Prof. Dr. Sabine Pahl. Before joining the University of Vienna, I completed a Research Master’s in Social Psychology and Psychological Methods at the University of Amsterdam. My main interests include social norms, second-order beliefs, behavior change, and spillover effects in the environmental domain. I am also interested in Bayesian statistics and hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
+I am a PhD student in the [Environmental Psychology Research Group](https://env-psy.univie.ac.at/about-us/) at the University of Vienna with Dr. Mathew White and Prof. Dr. Sabine Pahl. Before joining the University of Vienna, I completed a Research Master’s in Social Psychology and Psychological Methods at the University of Amsterdam. My main research interests include social norms, second-order beliefs, behavior change, and spillover effects in the environmental domain. I am also interested in Bayesian statistics and hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
 
 I am also affiliated with the [Junior Researcher Programme](https://jrp.pscholars.org) where I organized a summer school on "Sustainability: How Psychology can Contribute to the Sustainable Development Goals". I also oversee the research groups and help develop the scientific aspects of the program including implementing open science and organizing trainings for students.
 
