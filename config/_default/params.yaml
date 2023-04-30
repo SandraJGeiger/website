@@ -14,9 +14,9 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
+org_name: 'University of Vienna'
 description: 'Sandra J. Geiger Personal Website'
-twitter: 'https://twitter.com/SandraJGeiger'
+#twitter: 'https://twitter.com/SandraJGeiger'
 
 # Contact (edit or remove options as required)
 
@@ -28,10 +28,6 @@ address:
   country: Austria
   country_code: AT
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Find me on Twitter
-    link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
     name: Skype Me

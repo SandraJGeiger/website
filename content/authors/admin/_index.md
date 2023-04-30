@@ -56,7 +56,7 @@ email: sandra.geiger@univie.ac.at
 
 I am a PhD researcher in the [Environmental Psychology Research Group](https://env-psy.univie.ac.at/about-us/) at the University of Vienna with Dr. Mathew White and Prof. Dr. Sabine Pahl.
 
-My current line of research focuses on *(mis)perceptions of social norms* and how these (mis)perceptions can be leveraged to influence pro-environmental and conservation behavior. My research has been featured in several media outlets (ORF, Der Standard, and Austrian Press Agency) as well as on blogs and Wikipedia. I am also interested in Bayesian statistics and Big Team Science as well as hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
+My current line of research focuses on **(mis)perceptions of social norms** and how these (mis)perceptions can be leveraged to influence pro-environmental and conservation behavior. My research has been featured in several media outlets (ORF, Der Standard, and Austrian Press Agency) as well as on blogs and Wikipedia. I am also interested in **Bayesian statistics** and **Big Team Science** as well as hope to contribute to making (psychological) research more transparent, reproducible, and sustainable. 
 
 I am additionally affiliated with the [Junior Researcher Programme](https://jrp.pscholars.org) where I organized a summer school on *Sustainability: How Psychology can Contribute to the Sustainable Development Goals*. I also oversee the research groups and help develop the scientific aspects of the program including implementing open science and organizing trainings for students.
 
