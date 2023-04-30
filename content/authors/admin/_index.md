@@ -61,4 +61,4 @@ My current line of research focuses on (mis)perceptions of social norms and how 
 
 I am additionally affiliated with the [Junior Researcher Programme](https://jrp.pscholars.org) where I organized a summer school on *Sustainability: How Psychology can Contribute to the Sustainable Development Goals*. I also oversee the research groups and help develop the scientific aspects of the program including implementing open science and organizing trainings for students.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
