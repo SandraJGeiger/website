@@ -1,31 +1,20 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: ""
+date: "2022-12-10T00:00:00Z"
+external_link: "https://doktorat.univie.ac.at/aktuelle-meldungen/einzelansicht/news/forschungs-team-erhaelt-grant-vom-leibnitz-institut-fuer-psychologie/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=22a9004d5c8a015a6580bf661fc05d5b"
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+summary: The majority of people worldwide believe in climate change and its human contribution, yet this social consensus can be systematically misperceived.
 tags:
-- Deep Learning
-title: Internal Project
+- Social Norms 
+- Pluralistic Ignorance
+- Climate Change
+title: "What We Think Others Think About Climate Change: An 11-Country Study"
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The majority of people worldwide believe in climate change and its human contribution, yet this social consensus can be systematically misperceived. This study tested the cross-country generalizability of this misperception and investigated  whether disclosing the public opinion on climate change, based on real-world data from each country, can promote factors related to climate action. We conducted a preregistered survey experiment with 3,653 participants across 11 diverse countries (Brazil, Canada, China, Germany, India, Indonesia, Italy, Japan, Mexico, Poland, and Thailand). We found broad generalizability for systematic misperceptions. People across all countries underestimated the prevalence of pro-climate views, from −15.6% in Japan to −24.7% in Poland.  Providing information on public opinion was largely ineffective, except for very small effects on willingness to express one’s opinion on climate change. The results question the utility of social consensus messaging, an emerging intervention approach on social media and as a part of online educational tools. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.

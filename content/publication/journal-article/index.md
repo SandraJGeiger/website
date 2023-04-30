@@ -13,93 +13,13 @@ abstract: Pervading global narratives suggest that political polarization is inc
   intergroup relations. Such generalizability highlights a robust phenomenon with
   implications for political discourse worldwide.
 authors:
-- Kai Ruggeri
-- Bojana Većkalov
-- Lana Bojanić
-- Thomas L. Andersen
-- Sarah Ashcroft-Jones
-- Nélida Ayacaxli
-- Paula Barea-Arroyo
-- Mari Louise Berge
-- Ludvig D. Bjørndal
-- Aslı Bursalıoğlu
-- Vanessa Bühler
-- Martin Čadek
-- Melis Çetinçelik
-- Georgia Clay
-- Anna Cortijos-Bernabeu
-- Kaja Damnjanović
-- Tatianna M. Dugue
-- Maya Esberg
-- Celia Esteban-Serna
-- Ezra N. Felder
-- Maja Friedemann
-- Darianna I. Frontera-Villanueva
-- Patricia Gale
-- Eduardo Garcia-Garzon
-- admin
-- Leya George
-- Allegra Girardello
-- Aleksandra Gracheva
-- Anastasia Gracheva
-- Marquis Guillory
-- Marlene Hecht
-- Katharina Herte
-- Barbora Hubená
-- William Ingalls
-- Lea Jakob
-- Margo Janssens
-- Hannes Jarke
-- Ondřej Kácha
-- Kalina Nikolova Kalinova
-- Ralitsa Karakasheva
-- Peggah R. Khorrami
-- Žan Lep, Samuel Lins
-- Ingvild S. Lofthus
-- Salomé Mamede
-- Silvana Mareva
-- Mafalda F. Mascarenhas
-- Lucy McGill
-- Sara Morales-Izquierdo
-- Bettina Moltrecht
-- Tasja S. Mueller
-- Marzia Musetti
-- Joakim Nelsson
-- Thiago Otto
-- Alessandro F. Paul
-- Irena Pavlović
-- Marija B. Petrović
-- Dora Popović
-- Gerhard M. Prinz
-- Josip Razum
-- Ivaylo Sakelariev
-- Vivian Samuels
-- Inés Sanguino
-- Nicolas Say
-- Jakob Schuck
-- Irem Soysal
-- Anna Louise Todsen
-- Markus R. Tünte
-- Milica Vdovic
-- Jáchym Vintr
-- Maja Vovko
-- Marek A. Vranka
-- Lisa Wagner
-- Lauren Wilkins
-- Manou Willems
-- Elizabeth Wisdom
-- Aleksandra Yosifova
-- Sandy Zeng
-- Mahmoud A. Ahmed
-- Twinkle Dwarkanath
-- Mina Cikara
-- Jeffrey Lees
-- Tomas Folke
+- Kai Ruggeri and 82 colleagues
+
 date: "2021-04-22T00:00:00Z"
 doi: "10.1038/s41562-021-01092-x"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/aUu8tZFNgfM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []

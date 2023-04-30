@@ -2,13 +2,13 @@
 title: Meta-analyses in times of open science
 author: 'Sandra Geiger'
 date: '2022-12-09'
-slug: my-first-post
+slug: metaanalysis-openscience
 categories: []
 tags: []
 subtitle: 'Practical recommendations from my first meta-analysis'
 summary: ''
 authors: []
-lastmod: '2021-08-24T12:24:17+02:00'
+lastmod: '2022-12-09T12:24:17+02:00'
 featured: no
 image:
   caption: ''
@@ -16,16 +16,61 @@ image:
   preview_only: no
 projects: []
 ---
-
 **This blog post goes out to all (soon-to-be) meta-analysts who are looking for ways to make their projects more reusable, transparent, and sustainable.**
 
-Thousands of academic articles are published every day, which makes it more and more difficult to keep track of what is relevant to your research. Meta-analyses are a powerful tool to navigate the available evidence on a topic. However, such meta-analyses can be even more powerful if they follow the **four pillars of open science**—<span style = "color: #D7191C>pre-registration</span>, open materials, open data and code, as well as open access.
+Thousands of academic articles are published every day, which makes it more and more difficult to keep track of what is relevant to your research. Meta-analyses are a powerful tool to navigate the available evidence on a topic. However, such meta-analyses can be even more powerful if they follow the **four pillars of open science**:
+* <span style="color:#D7191C">**pre-registration** `r icons::academicons("preregistered")`</span>
+* <span style="color:#FDAE61">**open materials** `r icons::academicons("open-materials")`</span> 
+* <span style="color:#ABD9E9">**open data and code** `r icons::academicons("open-data")`</span>
+* <span style="color:#2C7BB6">**open access** `r icons::academicons("open-access")`</span>
 
 Having recently conducted my first meta-analysis, I searched for guidelines on how to implement open science practices. While open science is often discussed in the context of primary research, only few resources concern their implementation in meta-analyses. In this blog post, I will explain why and how open science can make meta-analyses even more powerful, including practical tips and resources that helped me along the way. 
 
-**5 reasons to adopt open science in meta-analyses**
+![an image caption Source: Open Science.](index_files/figure-html/MA_OS.png)
 
-Well-conducted meta-analyses are considered to provide the best available evidence for any research question, thus often guiding researchers’ and policymakers’ decisions. Although important, meta-analyses are less transparent than one would hope. In 2019, only 20% of meta-analyses published in Perspectives in Psychological Science or Psychological Science were pre-registered and 40% provided open materials and data [Moreau & Gamble, 2019](https://journals.sagepub.com/doi/abs/10.1177/1745691620906416?casa_token=0_rdT0URmEQAAAAA%3AvcoFcMQjYX_7h-J01H2vn46sCmfLIUI49QBT3-3Y80tPztLUNBgpvz0Si7ujkkBlCbGnSbhE4g3a&journalCode=ppsa). So why should we aim to make meta-analyses more transparent? 
+**<h2>5 reasons to adopt open science in meta-analyses</h2>**
 
+Well-conducted meta-analyses are considered to provide the best available evidence for any research question, thus often guiding researchers’ and policymakers’ decisions. Although important, meta-analyses are less transparent than one would hope. In 2019, only 20% of meta-analyses published in Perspectives in Psychological Science or Psychological Science were pre-registered and 40% provided open materials and data ([Moreau & Gamble, 2019](https://journals.sagepub.com/doi/abs/10.1177/1745691620906416?casa_token=0_rdT0URmEQAAAAA%3AvcoFcMQjYX_7h-J01H2vn46sCmfLIUI49QBT3-3Y80tPztLUNBgpvz0Si7ujkkBlCbGnSbhE4g3a&journalCode=ppsa)). So why should we aim to make meta-analyses more transparent? 
 
+1. <span style="color:#D7191C">**Pre-registration**</span> helps you and others! It does not only facilitate **planning** your work and formulating the scope and goals of the meta-analysis **in advance** but also helps others evaluate the **credibility** of the meta-analytic findings ([Quintana, 2015](https://pubmed.ncbi.nlm.nih.gov/26500598/), [2020](https://www.youtube.com/watch?app=desktop&v=BJUMpoWNAPw)).<br>
+<br>
 
+2. Meta-analyses involve countless decisions—from which databases to search and which studies to include to which statistics to extract and which moderators to analyze. It is thus very easy to massage the data until the results are desirable, by removing influential studies or tweaking inclusion criteria. <span style="color:#D7191C">**Pre-registration**</span> can **protect** you from such **questionable research practices** and your **own biases** (e.g., hindsight and confirmation bias; [Wagenmakers & Dutilh, 2016](https://www.psychologicalscience.org/observer/seven-selfish-reasons-for-preregistration)).<br>
+<br>
+
+3. <span style="color:#D7191C">**Pre-registration**</span> can **prevent duplicated meta-analyses and save resources**, as it allows you to find out whether other researchers are conducting a similar meta-analysis ([Quintana, 2015](https://pubmed.ncbi.nlm.nih.gov/26500598/)). This was also the case for my meta-analysis. Having checked [PROSPERO](https://www.crd.york.ac.uk/prospero/), I found out that two independent teams were already several years into conducting a similar meta-analysis, which saved resources and prevented me from the frustration that another meta-analysis was published while I would have just started mine.<br>
+<br>
+
+4. 23% of reviews are already outdated two years after publication ([Shojania et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17638714/)), making meta-analytic updates inevitable. <span style="color:#FDAE61">**Open materials**</span> as well as <span style="color:#ABD9E9">**open data and code**</span> can **facilitate cumulative meta-analyses** ([Polanin et al., 2020](https://journals.sagepub.com/doi/abs/10.1177/1745691620906416)). A fully transparent meta-analysis is easy to update, as researchers can continue where the old meta-analysis stopped, using the existing search terms, dataset, and code. In contrast, a non-transparent meta-analysis wastes valuable resources, as researchers need to recreate search terms as well as redo all searches and extractions, not only for the updated but also the previous meta-analysis ([Polanin et al., 2020](https://journals.sagepub.com/doi/abs/10.1177/1745691620906416)).<br>
+<br>
+
+5. <span style="color:#2C7BB6">**Open access**</span> provides researchers and policymakers easy access to the published meta-analysis, thereby potentially **increasing citations and media attention** ([McKiernan et al., 2016](https://elifesciences.org/articles/16800)).<br>
+<br>
+
+**<h2>Practical tips and resources for open science in meta-analyses</h2>**
+
+After learning that open meta-analyses provide many advantages for yourself and others, let’s dig right into how to achieve transparency, including practical tips and resources that helped me along the way. 
+
+1. **Use a <span style="color:#D7191C">pre-registration</span> template, ideally including a flow chart and analysis code.**<br>
+Pre-registration of meta-analyses may seem overwhelming, as many decisions and options need to be considered. What helped me with this step was an existing [pre-registration template](https://osf.io/qdszx/) by [Moreau and Gamble (2020)](https://psycnet.apa.org/record/2020-66880-001). This detailed template is based on the [PRISMA-P guidelines](https://osf.io/5nk92/) and covers every aspect of a meta-analysis, including administrative information (title, registration, authors, amendments, support), introduction (rationale and objectives), methods (eligibility criteria, information sources, search strategy, study records, data items, outcome prioritization, risk of bias, data synthesis, meta-biases, confidence in cumulative estimate), and additional information (deviations from the protocol). Ideally, the pre-registration also includes pre-written [analysis code](https://osf.io/5nk92/) and an [empty flow diagram](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195955) (= visualization of the meta-analytic process from search to selection) which is updated once results are known. Once the pre-registration is ready, you can upload it to [PROSPERO](https://www.crd.york.ac.uk/prospero/) (for health-related meta-analyses) or as an open-ended pre-registration to the [OSF](https://help.osf.io/hc/en-us/articles/360019738794-Select-a-Registration-Template) (for any other meta-analyses). Relatively recently, another option—Registered Report meta-analyses—became possible, where the protocol is not only pre-registered but additionally peer-reviewed and provisionally accepted for publication. You can find very detailed templates for correlation and experimental Registered Report meta-analyses on [Gilad Feldman’s website](https://mgto.org/meta-analysis-registered-reports/).<br>
+<br>
+
+2. **Keep track of deviations from the <span style="color:#D7191C">pre-registration</span> using a transparent changes document.** <br>
+During your meta-analysis, it is very likely that you need to deviate from the pre-registration. However, deviating from the preregistration is not a failure—deviations are often the consequence of detailed protocols, rather than a weakness in foresight. In this context, what is most problematic is not the presence of deviations themselves, but failing to make them transparent, as Moreau and Gamble (2020, p. 4) put it. One of the most valuable tips I got was to continuously keep track of the deviations from the pre-registration rather than trying to memorize them when writing up the manuscript. To do so, you can use [Moreau and Gamble’s (2020)](https://osf.io/6bcz9/) template for reporting whether, how, and why you deviated as well as how this deviation may have impacted the results.<br>
+<br> 
+
+3. **Share your search syntax.** <br>
+You can use this [template](https://osf.io/9htaq/) to document the exact <span style="color:#FDAE61">search syntax</span>, preferably including the syntax adapted to every database, and facilitate meta-analytic updates.<br>
+<br>
+
+4. **Share your <span style="color:#ABD9E9">data</span> including a <span style="color:#FDAE61">codebook</span>.** <br>
+The data of a meta-analysis are important to reproduce your results and enable continuous meta-analyses. The [data template](https://osf.io/qt2e6/) includes meta-information about each study (e.g., IDs of articles, studies, and effect sizes, reference), descriptive statistics (e.g., overall sample size, sample size per condition, extracted statistics, calculated effect sizes and variance if not later done, moderator coding), and additional information about the extraction or effect size calculation. [Lakens et al. (2016)](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-016-0126-3) additionally suggest describing which effect size was selected if there are many tests as well as quoting text passages from the original study that were used to code the moderators. Especially for the moderator coding, it is also helpful to share a [codebook](https://econtent.hogrefe.com/doi/full/10.1027/1015-5759/a000620) describing what each variable means and how they were coded.<br>
+<br>  
+
+5. **Make your meta-analysis <span style="color:#2C7BB6">publicly available</span>.**<br>
+For a fully transparent meta-analysis, I recommend making use of your university’s open-access agreements instead of hiding it behind a paywall. If this is not an option for you, you can use [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) to check which version of the meta-analysis (submitted, accepted, or published) you can make publicly available (e.g., institutional or named repository, personal website). 
+
+**<h2>It’s all about getting started and trying your best!</h2>**
+Having read these recommendations, you may feel overwhelmed by implementing all these practices at once — so did I, especially because I conducted a meta-analysis for the first time. Others may disagree, but for me, adopting open science practices in meta-analyses is not about getting everything right but about implementing as many of the practices as possible to the best of your abilities. 
+
+I hope that this short guide got you the necessary motivation and skills to get started with open science in your next meta-analysis.

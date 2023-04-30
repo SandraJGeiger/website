@@ -1,11 +1,13 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+date: "2022-12-10T00:00:00Z"
+external_link: https://manylabsclimate.wordpress.com
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+  size: 60
+summary: I'm part of the ManyLabs Collaboration on Climate Action. In this project, we conduct a randomized control trial testing the effectiveness of interventions to promote collective climate action in more than 75 countries.
 tags:
-- Demo
-title: External Project
+- Big Team Science
+- Climate Change 
+title: ManyLabs Climate Action
 ---
