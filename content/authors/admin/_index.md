@@ -14,9 +14,9 @@ education:
     institution: University of British Columbia, Vancouver, Canada
     year: 2017
 output:
-  word_document: default
   html_document:
     df_print: paged
+  word_document: default
   pdf_document: default
 highlight_name: no
 interests:
