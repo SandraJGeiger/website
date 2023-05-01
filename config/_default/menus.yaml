@@ -19,6 +19,3 @@ main:
   - name: POSTS
     url: '#posts'
     weight: 50
-  - name: TALKS
-    url: '#talks'
-    weight: 60
